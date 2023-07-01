@@ -14,8 +14,8 @@ body{
 .box{
    border-radius :100px;
 	position: relative;
-	width: 160px;
-	height: 250px;
+	width: 340px;
+	height: 420px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
